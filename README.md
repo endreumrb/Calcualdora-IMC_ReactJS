@@ -1,10 +1,10 @@
-<h1 style="text-align: center">Calculadora de IMC</h1>
+<h1 align="center">Calculadora de IMC</h1>
 
-<p style="text-align: center">Você sabe calcular seu peso adequado?</p>
+<p align="center">Você sabe calcular seu peso adequado?</p>
 
-<p style="text-align: center"><i>“Faça todas as suas coisas com leveza. Se elas tiverem peso, irão dar certo” — Fred Sá Teles</i></p>
+<p align="center"><i>“Faça todas as suas coisas com leveza. Se elas tiverem peso, irão dar certo” — Fred Sá Teles</i></p>
 
-<p style="text-align: center">
+<p align="center">
  <a href="#blush-objetivo">Objetivo</a> •
  <a href="#star-instalação">Instalação</a> •
  <a href="#zap-tecnologias">Tecnologias</a> • 
@@ -12,7 +12,7 @@
  <a href="#sunglasses-autor">Autor</a>
 </p>
 
-<p style="text-align: center">
+<p align="center">
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/progress-100%25-brightgreen.svg" alt="PRs Welcome">
   </a>
@@ -21,20 +21,24 @@
   </a>
 </p>
 
-<h4 style="text-align: center"> 
+<h4 align="center"> 
 	🚧  Calculadora de IMC 🚀 Finalizado!  🚧
 </h4>
 
-<p style="text-align: center">
+<p align="center">
   <kbd>
-    <img width="400" style="padding-right: 5px; border-radius: 5px" src="https://github.com/endreumrb/Calculadora-IMC_ReactJS/tree/main/src/assets/projeto.png" alt="Projeto">
+    <img width="400" style="padding-right: 5px; border-radius: 5px" src="https://github.com/endreumrb/Calculadora-IMC_ReactJS/blob/main/src/assets/projeto.png" alt="Projeto">
 </p>
 
+<br/>
+	
 ## :blush: **Objetivo**
 
 A ideia inicial deste projeto foi praticar e aprimorar meus conhecimentos na linguagem de programação TypeScript e bibliotecas ReactJS e CSS Modules.
 
 Sendo desenvolvido durante o curso [B7Web](https://b7web.com.br).
+	
+<br/>
 
 ## :star: **Instalação**
 
@@ -64,6 +68,8 @@ npm install
 npm start
 ```
 
+<br/>
+	
 ## :zap: **Tecnologias**
 
 - [TypeScript](https://www.typescriptlang.org/)
@@ -71,6 +77,8 @@ npm start
 - [CSS Modules](https://github.com/css-modules/css-modules)
 
 Entre outras tecnologias...
+	
+<br/>
 
 ## :handshake: **Contribuição**
 
@@ -78,6 +86,8 @@ Este projeto é para fins de estudo também, então me mande um e-mail me contan
 
 Todos os tipos de contribuições são muito bem-vindos e apreciadas!
 
+<br/>
+	
 ## :sunglasses: **Autor**
 
 <a href="https://www.linkedin.com/in/endreu-benites/">
